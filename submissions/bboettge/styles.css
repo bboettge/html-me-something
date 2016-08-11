@@ -1,7 +1,7 @@
 * {
   background-color:#f0ffff;
   font-family:Lato;
-  font-size:18px;
+  font-size:20px;
 }
 
 body {
@@ -34,10 +34,12 @@ body {
 
 .subheader {
   font-size:30px;
-  text-decoration: underline;
   margin-top: 60px;
   margin-bottom: 25px;
-  background-color:#afcecf;
+  margin-right:20px;
+  border:2px solid black;
+  display:block;
+  background-color:gray;
 }
 
 .dates {
